@@ -13,7 +13,7 @@ Full-stack software engineer with **5+ years of experience** building and shippi
 
 🚀 **Current Focus:** Building complex data visualization applications and scalable backend systems at Subsurface Automations
 
-🌱 **Background:** Unique combination of medical education (Physiotherapy & Rehabilitation) and software engineering
+🌱 **Background:** Unique combination of medical education  and software engineering
 
 💡 **Approach:** Strong emphasis on test-driven development, CI/CD practices, and delivering pixel-perfect, user-centric interfaces
 
